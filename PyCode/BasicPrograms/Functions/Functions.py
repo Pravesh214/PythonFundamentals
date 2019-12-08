@@ -16,7 +16,3 @@ def give_me_square(a):
 
 number = give_me_square(2)
 print(number)
-
-#Function to split list
-def split_list(list):
-   
